@@ -1,0 +1,22 @@
+# Ignore build artifacts
+/build/*.o
+/out/*.exe
+
+# Ignore compiled executables
+*.exe
+
+# Ignore generated documentation
+/doc
+
+# Ignore user-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binaries and shared libraries
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore logs and databases
+*.log
+*.sqlite
