@@ -1,4 +1,4 @@
-# Kiba leaning C
+# Kiba learning C
 
 This directory contains the solutions and resources for Day 1 of Advent of Code 2022.
 
@@ -12,7 +12,7 @@ This directory contains the solutions and resources for Day 1 of Advent of Code 
 
 - `out/`: Contains compiled executable files.
 
-  - `*`: Executable file generated from the source code.
+  - `programName`: Executable file generated from the source code.
 
 - `src/`: Contains the source code for the challenges.
 
